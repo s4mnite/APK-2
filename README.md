@@ -14,3 +14,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Rediseño móvil Rey del Huevo
+Esta versión aplica el diseño amarillo/rojo a toda la aplicación: Inicio, Inventario, Huevos, Ventas, Categorías, Estadísticas, Reportes, Recibos, Caja, Mermas, Clientes, Proveedores, Gastos y Configuración. La barra móvil principal quedó ordenada como Inicio, Inventario, Huevos, Ventas y Más.
